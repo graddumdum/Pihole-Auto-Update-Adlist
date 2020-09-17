@@ -1,10 +1,11 @@
-# Yet another Pi-hole list
 
-> Actually this project is not 'yet another'. I tried to improve what other projects missed. Also added an auto updater.
 
  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Twitter Follow](https://img.shields.io/twitter/follow/javanrasokat.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=javanrasokat)
 
-**Supports the new Pi-hole 5 and above.**
+**Supports the new Pi-hole 5 and above (If not updated check below).**
+```
+pihole -up
+```
 
 ## Quickstart
 ```
