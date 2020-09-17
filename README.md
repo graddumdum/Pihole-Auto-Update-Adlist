@@ -50,10 +50,6 @@ Add the argument `1` to your `sudo sh adlists-updater.sh 1` call.
 	0 */12 * * * sudo /home/pi/ya-pihole-list/adlists-updater.sh 1 >/dev/null
 	```
 
-## Screenshots
-![Pi-hole 5 Adlists](./docs/Pi-hole%205%20Adlists.png)
-
-
 ## Other
 
 ### Helpful links
